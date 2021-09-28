@@ -1,0 +1,99 @@
+#title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: center;
+    color: rgb(116, 114, 114);
+    margin-bottom: 50px;
+}
+#container{
+    width: 300px;
+    margin: auto;
+   
+}
+
+.textbox input{
+    background-color: rgb(231, 231, 231);
+    width: 300px;
+    height: 30px;
+    margin: 4px 0px;
+    border-radius: 8px;
+    border: none;
+}
+.textbox label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 6px;
+   
+}
+
+#signbutton{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 300px;
+    height: 30px;
+    padding: 2px;
+
+    margin: 8px 0px;
+    border: none;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+}
+h5{
+    margin: 40px;
+    color: gray;
+    text-align: center;
+    font-size: 14px;
+}
+span{
+    text-decoration: underline;
+}
+.googlebtn{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;   
+    background-color: white;
+    border-color: whitesmoke;
+    border-style: solid;
+    border-width: 1px;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 30px;
+   
+   
+}
+.facebtn{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    text-justify: auto;
+    background-color:#3b5998;
+    color: white;
+    border-color: whitesmoke;
+    border-style: solid;
+    border-width: 1px;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    display: inline-block;
+
+}
+#facetext{
+    
+    vertical-align: super;
+    margin-left: 5px;
+}
+#googletext{
+    vertical-align:super;
+    margin-left: 5px;
+    color: gray;
+}
+.faceicon{
+    color:white;
+}
